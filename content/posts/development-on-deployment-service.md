@@ -3,7 +3,6 @@ draft = false
 date = 2024-06-20T06:58:47+02:00
 title = "Development on Deployment Service"
 description = "Summary on the past development done and on the actual day"
-slug = "development-on-deployment-service"
 authors = []
 tags = []
 categories = []
