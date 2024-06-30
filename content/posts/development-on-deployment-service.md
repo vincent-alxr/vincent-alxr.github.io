@@ -5,9 +5,14 @@ title = "Development on Deployment Service"
 description = "Summary on the past development done and on the actual day"
 authors = []
 tags = []
-categories = []
+categories = [
+    "Golang",
+    "Docker"
+]
 externalLink = ""
-series = []
+series = [
+    1
+]
 +++
 
 ## Introduction

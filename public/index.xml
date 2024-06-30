@@ -6,6 +6,28 @@
     <description>Recent content on Vincent @Alixir</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 06:58:47 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development on Deployment Service</title>
+      <link>http://localhost:1313/posts/development-on-deployment-service/</link>
+      <pubDate>Thu, 20 Jun 2024 06:58:47 +0200</pubDate>
+      <guid>http://localhost:1313/posts/development-on-deployment-service/</guid>
+      <description>Introduction Link to heading To summarize effectively, i&amp;rsquo;m Hermann Vincent, Application developer designer at Alixir, my mission is to think, create and test softwares and i&amp;rsquo;m actually working a on deployment service.&#xA;As Alixir is a development studio, we have to work on different projects and they all have one thing in common, they need to be deployed in order to be visible firstly by the entire team and secondly by the client so that he can produce his series of tests.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Link to heading Présentation personnelle Link to heading Je suis Hermann Vincent, concepteur développeur d&amp;rsquo;application. Je suis autodidacte et jusqu&amp;rsquo;ici, j&amp;rsquo;ai travaillé pour deux studios, Squirrel et Alixir, ainsi que pour divers clients en freelance.&#xA;Compétences et spécialités Link to heading Je suis fullstack et j&amp;rsquo;ai une expertise variée dans le développement web et d&amp;rsquo;applications. Voici quelques-unes de mes compétences clés :&#xA;Server-Side Rendering :&#xA;Next.js Golang Gin PHP (Symfony, Slim, Vanilla) Node.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/quote/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quote/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

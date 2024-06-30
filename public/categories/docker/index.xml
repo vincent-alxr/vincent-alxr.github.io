@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Vincent @Alixir</title>
+    <link>http://localhost:1313/categories/docker/</link>
+    <description>Recent content in Docker on Vincent @Alixir</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 06:58:47 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development on Deployment Service</title>
+      <link>http://localhost:1313/posts/development-on-deployment-service/</link>
+      <pubDate>Thu, 20 Jun 2024 06:58:47 +0200</pubDate>
+      <guid>http://localhost:1313/posts/development-on-deployment-service/</guid>
+      <description>Introduction Link to heading To summarize effectively, i&amp;rsquo;m Hermann Vincent, Application developer designer at Alixir, my mission is to think, create and test softwares and i&amp;rsquo;m actually working a on deployment service.&#xA;As Alixir is a development studio, we have to work on different projects and they all have one thing in common, they need to be deployed in order to be visible firstly by the entire team and secondly by the client so that he can produce his series of tests.</description>
+    </item>
+  </channel>
+</rss>
